@@ -1,0 +1,35 @@
+// VARIABLE PRACTISE
+// let firstName = "Aiman"
+// let lastName = " Sheikh "
+// let fullName = firstName + lastName
+
+// console.log(fullName)
+
+
+// //CONCATENATE TWO STRINGS IN FUNCTION
+// let name = "Aiman"
+// let greeting = "Hi there"
+// function greetAiman()
+// {
+// console.log(greeting + "," name + "!" )
+// }
+
+// greetAiman()
+
+//INCREMENT & DECREMENT 
+// let myPoint = 3
+
+// function addPoints() {
+//  myPoint += 3
+// }
+
+// function removePoints() {
+// myPoint-= 1
+// }
+
+// addPoints()
+// addPoints()
+// removePoints()
+
+
+// console.log(myPoint)
