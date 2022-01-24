@@ -1,0 +1,36 @@
+img{
+    height: 30%;
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+}
+
+h2{
+    height: 30%;
+    width: 30%;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 15px;
+    padding-left: 15px;
+}
+
+button{
+    margin: 15px;
+    padding: 10px;
+    margin-left: 27px;
+    padding-left: 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}
+
+#error {
+    color: red;
+    margin: 5px;
+    padding: 0px;
+    font-size: 20px;
+
+
+}
